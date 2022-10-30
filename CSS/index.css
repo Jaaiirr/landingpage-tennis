@@ -413,6 +413,7 @@ i {
 
 @media (min-width: 1241px) and (max-width: 1320px) {
     .main-container {
+        background-image: url(../assets/action-athlete-ball-342361_2022-10-28/group.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
