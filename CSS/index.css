@@ -273,7 +273,7 @@ i {
 
 .landscape {
     height: 70vh;
-    background-image: url(/assets/action-athlete-ball-342361_2022-10-28/action-athlete-ball-342361.jpg);
+    background-image: url(../assets/action-athlete-ball-342361_2022-10-28/action-athlete-ball-342361.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -282,7 +282,7 @@ i {
     display: flex;
     width: 100%;
     height: auto;
-    background-image: url(/assets/action-athlete-ball-342361_2022-10-28/group.jpg);
+    background-image: url(../assets/action-athlete-ball-342361_2022-10-28/group.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
@@ -334,7 +334,7 @@ i {
 
 .resume {
     grid-column: 1 / 2;
-    background-image: url(/assets/action-athlete-ball-342361_2022-10-28/ball-color-court-1405355.jpg);
+    background-image: url(../assets/action-athlete-ball-342361_2022-10-28/ball-color-court-1405355.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
